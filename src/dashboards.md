@@ -1,4 +1,4 @@
-# Dashboards
+# Multi-Chart Vis
 
 [1] N. Höll, S. Latif, and F. Beck, A Business Intelligence Dashboard for the Phone: Small-scale Visualizations Embedded into a Mobile Analysis and Monitoring Solution. The Eurographics Association, 2023. doi: 10.2312/evs.20231037.
 
@@ -30,4 +30,32 @@ __From Mike's list. Demonstrates how ontology can be used to organize complex do
 __Similarly to Khan et al., the paper presents a method of automatically aligning the encodings of related vis on a dashboard, aimed at non-designer dashboard creators. It also includes a thorough list to classify how two vis on a dashboard may be related (or not related).__
 
 [13] J. Purich, A. Srinivasan, M. Correll, L. Battle, V. Setlur, and A. Crisan, “Toward a Scalable Census of Dashboard Designs in the Wild: A Case Study with Tableau Public,” arXiv.org. Accessed: Apr. 01, 2024. [Online]. Available: https://arxiv.org/abs/2306.16513v1
+
+[14] N. Boukhelifa, J. C. Roberts, and P. J. Rodgers, “A coordination model for exploratory multiview visualization,” in Proceedings International Conference on Coordinated and Multiple Views in Exploratory Visualization - CMV 2003 -, Jul. 2003, pp. 76–85. doi: 10.1109/CMV.2003.1215005.  
+
+[15] E. H.-H. Chi, P. Barry, J. Riedl, and J. Konstan, “A spreadsheet approach to information visualization,” in Proceedings of VIZ ’97: Visualization Conference, Information Visualization Symposium and Parallel Rendering Symposium, Oct. 1997, pp. 17–24. doi: 10.1109/INFVIS.1997.636761.  
+
+[16] Q. Chen et al., “Chart2Vec: A Universal Embedding of Context-Aware Visualizations,” IEEE Transactions on Visualization and Computer Graphics, pp. 1–12, 2024, doi: 10.1109/TVCG.2024.3383089.  
+
+[17] Z. Wen, W. Zeng, L. Weng, Y. Liu, M. Xu, and W. Chen, “Effects of View Layout on Situated Analytics for Multiple-View Representations in Immersive Visualization,” IEEE Transactions on Visualization and Computer Graphics, vol. 29, no. 1, pp. 440–450, Jan. 2023, doi: 10.1109/TVCG.2022.3209475.  
+
+[18] J. C. Roberts, “On encouraging multiple views for visualization,” in Proceedings. 1998 IEEE Conference on Information Visualization. An International Conference on Computer Visualization and Graphics (Cat. No.98TB100246), Jul. 1998, pp. 8–14. doi: 10.1109/IV.1998.694193.  
+
+[19] H. M. Al-maneea and J. C. Roberts, “Towards Quantifying Multiple View Layouts in Visualisation as Seen from Research Publications,” in 2019 IEEE Visualization Conference (VIS), Oct. 2019, pp. 121–121. doi: 10.1109/VISUAL.2019.8933655.
+
+[20] J. C. Roberts, J. W. Mearman, P. W. S. Butcher, H. M. Al-Maneea, and P. D. Ritsos, “3D Visualisations Should Not be Displayed Alone - Encouraging a Need for Multivocality in Visualisation.” arXiv, Aug. 10, 2021. doi: 10.48550/arXiv.2108.04680.  
+
+[21] “A Four‐level Focus+Context Approach to Interactive Visual Analysis of Temporal Features in Large Scientific Data - Muigg - 2008 - Computer Graphics Forum - Wiley Online Library.” Accessed: Apr. 20, 2024. [Online]. Available: https://onlinelibrary-wiley-com.ezproxy.library.wisc.edu/doi/10.1111/j.1467-8659.2008.01207.x  
+
+[22] “Faceted Views of Varying Emphasis (FaVVEs): a framework for visualising multi‐perspective small multiples - Beecham - 2016 - Computer Graphics Forum - Wiley Online Library.” Accessed: Apr. 20, 2024. [Online]. Available: https://onlinelibrary-wiley-com.ezproxy.library.wisc.edu/doi/10.1111/cgf.12900  
+
+[23] J. C. Roberts, “Multiple view and multiform visualization,” in Visual Data Exploration and Analysis VII, SPIE, Feb. 2000, pp. 176–185. doi: 10.1117/12.378894.  
+
+[24] “Small Multiples, Large Singles: A New Approach for Visual Data Exploration - van den Elzen - 2013 - Computer Graphics Forum - Wiley Online Library.” Accessed: Apr. 20, 2024. [Online]. Available: https://onlinelibrary-wiley-com.ezproxy.library.wisc.edu/doi/10.1111/cgf.12106  
+
+[25] J. Tian, K. Peng, F. Jia, and Q. Xia, “The concept of symbol-morpheme and its application in map symbols design,” in 2013 21st International Conference on Geoinformatics, Jun. 2013, pp. 1–6. doi: 10.1109/Geoinformatics.2013.6626122.  
+
+[26] “Visual comparison of software architectures - Fabian Beck, Stephan Diehl, 2013.” Accessed: Apr. 20, 2024. [Online]. Available: https://journals-sagepub-com.ezproxy.library.wisc.edu/doi/10.1177/1473871612455983  
+
+[27] K. Yan and W. Cui, “Visualizing the uncertainty induced by graph layout algorithms,” in 2017 IEEE Pacific Visualization Symposium (PacificVis), Apr. 2017, pp. 200–209. doi: 10.1109/PACIFICVIS.2017.8031595.
 

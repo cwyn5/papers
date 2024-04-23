@@ -1,4 +1,4 @@
 # Summary
 
-- [Dashboards](./dashboards.md)
+- [Multi-Chart Vis](./dashboards.md)
 - [Perception](./perception.md)
