@@ -46,16 +46,19 @@ __Similarly to Khan et al., the paper presents a method of automatically alignin
 [20] J. C. Roberts, J. W. Mearman, P. W. S. Butcher, H. M. Al-Maneea, and P. D. Ritsos, “3D Visualisations Should Not be Displayed Alone - Encouraging a Need for Multivocality in Visualisation.” arXiv, Aug. 10, 2021. doi: 10.48550/arXiv.2108.04680.  
 
 [21] “A Four‐level Focus+Context Approach to Interactive Visual Analysis of Temporal Features in Large Scientific Data - Muigg - 2008 - Computer Graphics Forum - Wiley Online Library.” Accessed: Apr. 20, 2024. [Online]. Available: https://onlinelibrary-wiley-com.ezproxy.library.wisc.edu/doi/10.1111/j.1467-8659.2008.01207.x  
+__Proposes a layout approach specifically to deal with high volumes of data. Shows one potential method for interactive generation of multiple charts__
 
 [22] “Faceted Views of Varying Emphasis (FaVVEs): a framework for visualising multi‐perspective small multiples - Beecham - 2016 - Computer Graphics Forum - Wiley Online Library.” Accessed: Apr. 20, 2024. [Online]. Available: https://onlinelibrary-wiley-com.ezproxy.library.wisc.edu/doi/10.1111/cgf.12900  
 
 [23] J. C. Roberts, “Multiple view and multiform visualization,” in Visual Data Exploration and Analysis VII, SPIE, Feb. 2000, pp. 176–185. doi: 10.1117/12.378894.  
+__Interesting perspective on why to use multiple charts (small multiples in particular), with both design justifications and examples.__
 
 [24] “Small Multiples, Large Singles: A New Approach for Visual Data Exploration - van den Elzen - 2013 - Computer Graphics Forum - Wiley Online Library.” Accessed: Apr. 20, 2024. [Online]. Available: https://onlinelibrary-wiley-com.ezproxy.library.wisc.edu/doi/10.1111/cgf.12106  
+__Examines small multiples from the perspective of addressing user questions, includes a formal user study of the proposed visualization system.__
 
-[25] J. Tian, K. Peng, F. Jia, and Q. Xia, “The concept of symbol-morpheme and its application in map symbols design,” in 2013 21st International Conference on Geoinformatics, Jun. 2013, pp. 1–6. doi: 10.1109/Geoinformatics.2013.6626122.  
+[25] K. Yan and W. Cui, “Visualizing the uncertainty induced by graph layout algorithms,” in 2017 IEEE Pacific Visualization Symposium (PacificVis), Apr. 2017, pp. 200–209. doi: 10.1109/PACIFICVIS.2017.8031595.  
 
-[26] “Visual comparison of software architectures - Fabian Beck, Stephan Diehl, 2013.” Accessed: Apr. 20, 2024. [Online]. Available: https://journals-sagepub-com.ezproxy.library.wisc.edu/doi/10.1177/1473871612455983  
+[26] H. Doleisch, M. Gasser, and H. Hauser, “Interactive feature specification for focus+context visualization of complex simulation data,” in Proceedings of the symposium on Data visualisation 2003, in VISSYM ’03. Goslar, DEU: Eurographics Association, May 2003, pp. 239–248.  
+__Defines and justifies focus+context visualizations, as well as feature definition.__
 
-[27] K. Yan and W. Cui, “Visualizing the uncertainty induced by graph layout algorithms,” in 2017 IEEE Pacific Visualization Symposium (PacificVis), Apr. 2017, pp. 200–209. doi: 10.1109/PACIFICVIS.2017.8031595.
 
