@@ -26,12 +26,16 @@
 **A taxonomy of design and layout patterns in multiple view visualizations. While I am not using any of these metrics in my taxonomy, it may be interesting to compare these patterns to purpose classifications. Also includes a collection of hundreds of compound vis.**  
 
 [9] M. A. Bekos, B. Niedermann, and M. Nöllenburg, “External Labeling Techniques: A Taxonomy and Survey,” Computer Graphics Forum, vol. 38, no. 3, pp. 833–860, 2019, doi: 10.1111/cgf.13729.  
+**"External labels" refers to textual annotations that do not overlap the main visualization. This domain is very specific and granular, but there is (to my surprise) a not insignificant body of research on it. Similar to my taxonomy and others on the list, this paper ultimately serves to provide and justify a set of guidelines, with the understanding that different designers have different criteria for 'good' visualization.**  
 
 [10] E. T. Brown et al., “Finding Waldo: Learning about Users from their Interactions,” IEEE Transactions on Visualization and Computer Graphics, vol. 20, no. 12, pp. 1663–1672, Dec. 2014, doi: 10.1109/TVCG.2014.2346575.  
+****  
 
 [11] M. Feng, E. Peck, and L. Harrison, “Patterns and Pace: Quantifying Diverse Exploration Behavior with Visualizations on the Web,” IEEE Transactions on Visualization and Computer Graphics, vol. 25, no. 1, pp. 501–511, Jan. 2019, doi: 10.1109/TVCG.2018.2865117.  
+****  
 
 [12] M. Tory and T. Moller, “Rethinking Visualization: A High-Level Taxonomy,” in IEEE Symposium on Information Visualization, Oct. 2004, pp. 151–158. doi: 10.1109/INFVIS.2004.59.  
+****  
 
 [13] “Taxonomizer: Interactive Construction of Fully Labeled Hierarchical Groupings from Attributes of Multivariate Data | IEEE Journals & Magazine | IEEE Xplore.” Accessed: Jun. 09, 2024. [Online]. Available: https://ieeexplore-ieee-org.ezproxy.library.wisc.edu/document/8634001.  
 **A tool for creating hierarchical taxonomies out of variable sets. The definition of taxonomy used here is different from, but not contradictory to, those in other papers on this page. Uses word embeddings to sort terms, which is interesting but not currently relevant to the project.**
