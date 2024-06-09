@@ -19,29 +19,23 @@
 [6] Y. Zhu, P. R. Kancharla, and C. S. K. Talluru, “A Taxonomy of Spatial-Temporal Data Visualization,” in 2021 25th International Conference Information Visualisation (IV), Jul. 2021, pp. 223–228. doi: 10.1109/IV53921.2021.00043.  
 **Another example of a taxonomy based on tasks and specific design elements. Interestingly, many examples included in the paper are also compound vis. Also, one reason mentioned for creating the taxonomy was to aid API design via a vis grammar - the first time I encountered it.**  
 
-[7] G. Kindlmann and C. Scheidegger, “An Algebraic Process for Visualization Design,” IEEE Transactions on Visualization and Computer Graphics, vol. 20, no. 12, pp. 2181–2190, Dec. 2014, doi: 10.1109/TVCG.2014.2346325.  
-****  
-
-[8] X. Chen, W. Zeng, Y. Lin, H. M. AI-maneea, J. Roberts, and R. Chang, “Composition and Configuration Patterns in Multiple-View Visualizations,” IEEE Transactions on Visualization and Computer Graphics, vol. 27, no. 2, pp. 1514–1524, Feb. 2021, doi: 10.1109/TVCG.2020.3030338.  
+[7] X. Chen, W. Zeng, Y. Lin, H. M. AI-maneea, J. Roberts, and R. Chang, “Composition and Configuration Patterns in Multiple-View Visualizations,” IEEE Transactions on Visualization and Computer Graphics, vol. 27, no. 2, pp. 1514–1524, Feb. 2021, doi: 10.1109/TVCG.2020.3030338.  
 **A taxonomy of design and layout patterns in multiple view visualizations. While I am not using any of these metrics in my taxonomy, it may be interesting to compare these patterns to purpose classifications. Also includes a collection of hundreds of compound vis.**  
 
-[9] M. A. Bekos, B. Niedermann, and M. Nöllenburg, “External Labeling Techniques: A Taxonomy and Survey,” Computer Graphics Forum, vol. 38, no. 3, pp. 833–860, 2019, doi: 10.1111/cgf.13729.  
+[8] M. A. Bekos, B. Niedermann, and M. Nöllenburg, “External Labeling Techniques: A Taxonomy and Survey,” Computer Graphics Forum, vol. 38, no. 3, pp. 833–860, 2019, doi: 10.1111/cgf.13729.  
 **"External labels" refers to textual annotations that do not overlap the main visualization. This domain is very specific and granular, but there is (to my surprise) a not insignificant body of research on it. Similar to my taxonomy and others on the list, this paper ultimately serves to provide and justify a set of guidelines, with the understanding that different designers have different criteria for 'good' visualization.**  
 
-[10] E. T. Brown et al., “Finding Waldo: Learning about Users from their Interactions,” IEEE Transactions on Visualization and Computer Graphics, vol. 20, no. 12, pp. 1663–1672, Dec. 2014, doi: 10.1109/TVCG.2014.2346575.  
-****  
+[9] E. T. Brown et al., “Finding Waldo: Learning about Users from their Interactions,” IEEE Transactions on Visualization and Computer Graphics, vol. 20, no. 12, pp. 1663–1672, Dec. 2014, doi: 10.1109/TVCG.2014.2346575.  
+**The paper shows a possible means of connecting low-level interactions to high-level user reasoning (and personality). While the experiment itself is not as relevant to the current project as I anticipated, there may be something to connecting analytic provenance to vis design purposes.**  
 
-[11] M. Feng, E. Peck, and L. Harrison, “Patterns and Pace: Quantifying Diverse Exploration Behavior with Visualizations on the Web,” IEEE Transactions on Visualization and Computer Graphics, vol. 25, no. 1, pp. 501–511, Jan. 2019, doi: 10.1109/TVCG.2018.2865117.  
-****  
+[10] M. Tory and T. Moller, “Rethinking Visualization: A High-Level Taxonomy,” in IEEE Symposium on Information Visualization, Oct. 2004, pp. 151–158. doi: 10.1109/INFVIS.2004.59.  
+**This taxonomy uses design elements and the type of data visualized to classify visualizations. The writing style made the paper somewhat difficult to read.**  
 
-[12] M. Tory and T. Moller, “Rethinking Visualization: A High-Level Taxonomy,” in IEEE Symposium on Information Visualization, Oct. 2004, pp. 151–158. doi: 10.1109/INFVIS.2004.59.  
-****  
-
-[13] “Taxonomizer: Interactive Construction of Fully Labeled Hierarchical Groupings from Attributes of Multivariate Data | IEEE Journals & Magazine | IEEE Xplore.” Accessed: Jun. 09, 2024. [Online]. Available: https://ieeexplore-ieee-org.ezproxy.library.wisc.edu/document/8634001.  
+[11] “Taxonomizer: Interactive Construction of Fully Labeled Hierarchical Groupings from Attributes of Multivariate Data | IEEE Journals & Magazine | IEEE Xplore.” Accessed: Jun. 09, 2024. [Online]. Available: https://ieeexplore-ieee-org.ezproxy.library.wisc.edu/document/8634001.  
 **A tool for creating hierarchical taxonomies out of variable sets. The definition of taxonomy used here is different from, but not contradictory to, those in other papers on this page. Uses word embeddings to sort terms, which is interesting but not currently relevant to the project.**
 
-[14] D. Deng et al., “VisImages: A Fine-Grained Expert-Annotated Visualization Dataset,” IEEE Transactions on Visualization and Computer Graphics, vol. 29, no. 7, pp. 3298–3311, Jul. 2023, doi: 10.1109/TVCG.2022.3155440.  
+[12] D. Deng et al., “VisImages: A Fine-Grained Expert-Annotated Visualization Dataset,” IEEE Transactions on Visualization and Computer Graphics, vol. 29, no. 7, pp. 3298–3311, Jul. 2023, doi: 10.1109/TVCG.2022.3155440.  
 **Dataset here: https://visimages.github.io/. Over 12,000 images classified by chart type(s) and annotated by humans.The dataset is valuable and easy to search; my primary takeaway from the paper itself was its description of the annotation process in section 4.**  
 
-[15] M. A. Borkin et al., “What Makes a Visualization Memorable?,” IEEE Transactions on Visualization and Computer Graphics, vol. 19, no. 12, pp. 2306–2315, Dec. 2013, doi: 10.1109/TVCG.2013.234.  
+[13] M. A. Borkin et al., “What Makes a Visualization Memorable?,” IEEE Transactions on Visualization and Computer Graphics, vol. 19, no. 12, pp. 2306–2315, Dec. 2013, doi: 10.1109/TVCG.2013.234.  
 **Apparently, what makes a visualization memorable is chart junk. I was interested in viewing the full taxonomy, but have not yet able to locate the supplementals online. What is included in the paper is a simple MassVis-style chart type taxonomy with a few other categories related to visual design.**
